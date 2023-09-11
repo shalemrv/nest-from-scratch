@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "title": "IPhone 14",
+        "description": "6GB RAM 128GB Memory",
+        "price": 699,
+        "createdAt": "Mon Sep 02 2023",
+        "updatedAt": "Mon Sep 02 2023"
+    },
+    {
+        "id": 2,
+        "title": "IPhone 13",
+        "description": "6GB RAM 128GB Memory",
+        "price": 599,
+        "createdAt": "Mon Sep 02 2023",
+        "updatedAt": "Mon Sep 02 2023"
+    },
+    {
+        "id": 3,
+
+        "title": "Macbook Air",
+        "description": "8GB RAM 256GB Memory",
+        "price": 1699,
+        "createdAt": "Mon Sep 03 2023",
+        "updatedAt": "Mon Sep 03 2023"
+    },
+    {
+        "id": 4,
+
+        "title": "Macbook Pro",
+        "description": "16GB RAM 512GB Memory",
+        "price": 2699,
+        "createdAt": "Mon Sep 04 2023",
+        "updatedAt": "Mon Sep 04 2023"
+    }
+]
