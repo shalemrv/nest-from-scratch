@@ -1,5 +1,5 @@
 {
-    "nextID": 7,
+    "nextID" : 5,
     "list": [
         {
             "id": 1,
@@ -19,6 +19,7 @@
         },
         {
             "id": 3,
+    
             "title": "Macbook Air",
             "description": "8GB RAM 256GB Memory",
             "price": 1699,
@@ -27,19 +28,12 @@
         },
         {
             "id": 4,
+    
             "title": "Macbook Pro",
             "description": "16GB RAM 512GB Memory",
             "price": 2699,
             "createdAt": "Mon Sep 04 2023",
             "updatedAt": "Mon Sep 04 2023"
-        },
-        {
-            "id": 6,
-            "title": "My Phone",
-            "description": "This is a test product",
-            "price": 15000,
-            "createdAt": "Tue Sep 12 2023 18:56:48 GMT+0530 (India Standard Time)",
-            "updatedAt": "Tue Sep 12 2023 18:56:48 GMT+0530 (India Standard Time)"
         }
     ]
 }
